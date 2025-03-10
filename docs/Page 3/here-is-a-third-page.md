@@ -7,3 +7,7 @@ metadata:
   robots: index
 ---
 Apple farm
+
+<br />
+
+[Google](https://www.google.com)
