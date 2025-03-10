@@ -7,3 +7,7 @@ metadata:
   robots: index
 ---
 content
+
+<br />
+
+[Getting Started](doc:getting-started)
