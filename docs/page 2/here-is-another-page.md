@@ -10,4 +10,4 @@ content
 
 <br />
 
-[Getting Started](doc:getting-started)
+[lets goooo](doc:getting-started)
